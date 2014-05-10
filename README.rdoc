@@ -1,0 +1,5 @@
+= puppet-kibana module
+
+{<img src='https://codex.cegeka.be/jenkins/job/puppet-kibana/badge/icon' />}[https://codex.cegeka.be/jenkins/job/puppet-kibana/]
+
+This is the kibana module.
